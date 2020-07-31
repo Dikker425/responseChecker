@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="isThatAlive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/isThatAlive_jar</output-path>
+    <root id="archive" name="isThatAlive.jar">
+      <element id="module-output" name="isThatAlive" />
+    </root>
+  </artifact>
+</component>
